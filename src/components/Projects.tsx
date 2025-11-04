@@ -34,10 +34,10 @@ const projects = [
       "Penjelasan mendalam mengenai platform trading crypto. Bagaimana Anda menangani data real-time, keamanan, dan integrasi pembayaran. Ini akan muncul di dalam modal."
   },
   {
-    title: "Analystict Data Visualization", 
+    title: "Design Shirt", 
     description: "Data visualization dashboard with AI-powered insights...", 
-    tech: ["Python", "altair", "Pandas", "Numply"],
-    image: "/images/Analysis Data Visual.jpg", // <-- Ganti dengan path gambar Anda
+    tech: ["Adobe Photoshop", "Canva"],
+    image: "/images/Canva.jpg", // <-- Ganti dengan path gambar Anda
     demoUrl: "#",
     fullDescription:
       "Detail tentang dashboard analitik. Bagaimana data diproses, visualisasi apa yang Anda buat menggunakan D3.js, dan bagaimana integrasi AI/ML (TensorFlow) berfungsi."
